@@ -1,0 +1,12 @@
+/* App.css */
+body {
+  font-family: 'Algerian', sans-serif; 
+}
+
+.counter-title {
+  color: white;
+}
+
+.counter-container {
+  background-color: #000000;
+}
